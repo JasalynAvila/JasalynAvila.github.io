@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Welcome!
+title: Hello!
 ---
-You can change the title above if you want to and then write your content.  
+Jasalyn Avila is an undergraduate biochemistry student at California Polytechnic State Univeristy, San Luis Obispo, who is currently on the pre-dental track.   
