@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Publications
+title: Experience
 permalink: /exp/
 ---
 
-1. A great publication.
-2. Another great publication.
+1. Volunteers at Habitat for Humanity Restores
+2. Interns at a Dental Implant Office.
